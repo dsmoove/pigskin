@@ -2,7 +2,6 @@
 David Shin
 
 ![img](./images/banner.png)
-![img](./images/negwordcloud.png)
 
 ## The Business Problem
 
